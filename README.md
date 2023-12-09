@@ -4,7 +4,10 @@
     <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,mongodb,react,tailwind" /> </br>
   </a>
 </p>
-## 🌱 I’m currently learning  <img src="https://skillicons.dev/icons?i=nextjs" />
+
+<p>
+  🌱 I’m currently learning  <img src="https://skillicons.dev/icons?i=nextjs" />
+</p>
 
 # Current Stats
 <div align="center">
