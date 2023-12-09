@@ -20,3 +20,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PallabKumarS&theme=cobalt&hide_border=true" alt="GitHub Streak">
 </div>
 
+# Reach Out to Me
+
+Feel free to connect with me on LinkedIn and Facebook:
+
+[![LinkedIn](link_to_linkedin_icon_image)](link_to_your_linkedin_profile)
+[![Facebook](link_to_facebook_icon_image)](link_to_your_facebook_profile)
