@@ -68,7 +68,7 @@
 ## Projects
 
 ### Tour Quest
-✅ Check out the website at https://pks-tour-guide.web.app/
+✅ Check out the website at [Live Link](https://pks-tour-guide.web.app/)
 
 #### Github Repo
 * front-end : https://github.com/PallabKumarS/tour-quest-client
