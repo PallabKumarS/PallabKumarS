@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/PallabKumarS/PallabKumarS/assets/25210910/9dd62d69-1c82-4150-8181-b39fc3e5701d)
+![github-header-image](https://github.com/PallabKumarS/PallabKumarS/assets/25210910/ed589610-db20-43ae-b478-ba2bdc54b7c3)
 
 # Technologies That I Know
 <p align="center">
