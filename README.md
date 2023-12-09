@@ -1,3 +1,6 @@
+
+![github-header-image](https://github.com/PallabKumarS/PallabKumarS/assets/25210910/9dd62d69-1c82-4150-8181-b39fc3e5701d)
+
 # Technologies That I Know
 <p align="center">
   <a href="https://skillicons.dev">
