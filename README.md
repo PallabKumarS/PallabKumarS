@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,mongodb,react,tailwind" /> </br>
-    - 🌱 I’m currently learning **NextJs**
   </a>
 </p>
+## 🌱 I’m currently learning  <img src="https://skillicons.dev/icons?i=nextjs" />
 
 # Current Stats
 <div align="center">
