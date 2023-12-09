@@ -5,8 +5,10 @@
   </a>
 </p>
 
-<p>
-  🌱 I’m currently learning  <img src="https://skillicons.dev/icons?i=nextjs" />
+<p align="center">
+  🌱 I’m currently learning   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,mongodb,react,tailwind" /> </br>
+  </a>
 </p>
 
 # Current Stats
