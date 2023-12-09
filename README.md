@@ -84,8 +84,8 @@
 
   
 ### Spark Splash
-✅ Check out the website at https://pks-tour-guide.web.app/
+✅ Check out the website at [Live Link](https://pks-brands.web.app/)
 
 #### Github Repo
-* front-end : [Client Repo](https://github.com/PallabKumarS/tour-quest-client)
-* back-end : [Server Repo](https://github.com/PallabKumarS/tour-quest-server)
+* front-end : [Client Repo](https://github.com/PallabKumarS/spark-splash-client)
+* back-end : [Server Repo](https://github.com/PallabKumarS/spark-splash-server)
