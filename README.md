@@ -71,8 +71,8 @@
 ✅ Check out the website at [Live Link](https://pks-tour-guide.web.app/)
 
 #### Github Repo
-* front-end : https://github.com/PallabKumarS/tour-quest-client
-* back-end : https://github.com/PallabKumarS/tour-quest-server
+* front-end : [Client Repo](https://github.com/PallabKumarS/tour-quest-client)
+* back-end : [Server Repo](https://github.com/PallabKumarS/tour-quest-server)
 
 
 ### Hype Electronic
@@ -87,5 +87,5 @@
 ✅ Check out the website at https://pks-tour-guide.web.app/
 
 #### Github Repo
-* front-end : https://github.com/PallabKumarS/tour-quest-client
-* back-end : https://github.com/PallabKumarS/tour-quest-server
+* front-end : [Client Repo](https://github.com/PallabKumarS/tour-quest-client)
+* back-end : [Server Repo](https://github.com/PallabKumarS/tour-quest-server)
