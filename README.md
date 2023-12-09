@@ -8,12 +8,14 @@
   </a>
 </p>
 
+🔭 I’m currently working on MERN Stack  
 🌱 I’m currently learning     
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs" /> </br>
   </a>
 </p>
+❓ Ask me about anything related to MERN stack and related technologies  
 
 # Current Stats
 <div align="center">
