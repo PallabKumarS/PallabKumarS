@@ -10,11 +10,6 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 * 🌱 I’m currently learning NextJs
 * ❓ Ask me about anything related to MERN stack and related technologies  
 
-## Current Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PallabKumarS&theme=cobalt&hide_border=true" alt="GitHub Streak">
-</div>
-
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%">
 
@@ -53,7 +48,13 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+
+
+## Current Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PallabKumarS&theme=cobalt&hide_border=true" alt="GitHub Streak">
+</div>
 
 
 ## Connect with me  
