@@ -79,8 +79,8 @@
 ✅ Check out the website at [Live Link](https://pks-service.web.app/)
 
 #### Github Repo
-* front-end : https://github.com/PallabKumarS/tour-quest-client
-* back-end : https://github.com/PallabKumarS/tour-quest-server
+* front-end : [Client Repo](https://github.com/PallabKumarS/hype-electronic-client)
+* back-end : [Server Repo](https://github.com/PallabKumarS/hype-electronic-client)
 
   
 ### Spark Splash
