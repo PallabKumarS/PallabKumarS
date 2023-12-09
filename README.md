@@ -68,17 +68,17 @@
 ## Projects
 
 ### Tour Quest
-✅ Check out the website at [Live Link](https://pks-tour-guide.web.app/)
+✅ Check out the website at 🌐[Live Link](https://pks-tour-guide.web.app/)
 
 #### Github Repo
-* 🌐front-end : [Client Repo](https://github.com/PallabKumarS/tour-quest-client)
+* front-end : [Client Repo](https://github.com/PallabKumarS/tour-quest-client)
 * back-end : [Server Repo](https://github.com/PallabKumarS/tour-quest-server)
 
 <hr/>
 
 
 ### Hype Electronic
-✅ Check out the website at [Live Link](https://pks-service.web.app/)
+✅ Check out the website at 🌐[Live Link](https://pks-service.web.app/)
 
 #### Github Repo
 * front-end : [Client Repo](https://github.com/PallabKumarS/hype-electronic-client)
@@ -88,7 +88,7 @@
 
   
 ### Spark Splash
-✅ Check out the website at [Live Link](https://github.com/PallabKumarS/spark-splash-client)
+✅ Check out the website at 🌐[Live Link](https://github.com/PallabKumarS/spark-splash-client)
 
 #### Github Repo
 * front-end : [Client Repo](https://github.com/PallabKumarS/spark-splash-client)
