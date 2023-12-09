@@ -73,7 +73,8 @@
 #### Github Repo
 * front-end : [Client Repo](https://github.com/PallabKumarS/tour-quest-client)
 * back-end : [Server Repo](https://github.com/PallabKumarS/tour-quest-server)
-  <br/>
+
+  <hr/>
 
 
 ### Hype Electronic
