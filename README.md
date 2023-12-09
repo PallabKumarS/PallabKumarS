@@ -1,6 +1,10 @@
 
 ![github-header-image](https://github.com/PallabKumarS/PallabKumarS/assets/25210910/ed589610-db20-43ae-b478-ba2bdc54b7c3)
 
+🚀 As a passionate MERN Stack Developer, I thrive in crafting immersive web experiences. My skill set includes proficiency in HTML, CSS, and Tailwind for front-end development, while my expertise in React, Node.js, and Express powers dynamic and responsive applications. I have a solid grasp of MongoDB and Firebase for seamless database integration.
+
+🌱 Currently delving into the intricacies of Next.js, I am on a continuous journey to expand my knowledge and skills. My ambition is to evolve into a versatile Full Stack Developer, exploring a multitude of technologies to build robust and innovative solutions.
+
 
 * 🔭 I’m currently working on MERN Stack  
 * 🌱 I’m currently learning NextJs
