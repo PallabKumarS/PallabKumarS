@@ -1,12 +1,6 @@
 
 ![github-header-image](https://github.com/PallabKumarS/PallabKumarS/assets/25210910/ed589610-db20-43ae-b478-ba2bdc54b7c3)
 
-# Technologies That I Know
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,mongodb,react,tailwind" /> </br>
-  </a>
-</p>
 
 🔭 I’m currently working on MERN Stack  
 🌱 I’m currently learning NextJs
@@ -18,7 +12,7 @@
 </div>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
