@@ -2,9 +2,9 @@
 ![github-header-image](https://github.com/PallabKumarS/PallabKumarS/assets/25210910/ed589610-db20-43ae-b478-ba2bdc54b7c3)
 
 
-🔭 I’m currently working on MERN Stack  
-🌱 I’m currently learning NextJs
-❓ Ask me about anything related to MERN stack and related technologies  
+* 🔭 I’m currently working on MERN Stack  
+* 🌱 I’m currently learning NextJs
+* ❓ Ask me about anything related to MERN stack and related technologies  
 
 # Current Stats
 <div align="center">
