@@ -93,13 +93,13 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 
 #### Github Repo
 * front-end : [Client Repo](https://github.com/PallabKumarS/hype-electronic-client)
-* back-end : [Server Repo](https://github.com/PallabKumarS/hype-electronic-client)
+* back-end : [Server Repo](https://github.com/PallabKumarS/hype-electronic-server)
 
 <hr/>
 
   
 ### Spark Splash
-✅ Check out the website at 🌐[Live Link](https://github.com/PallabKumarS/spark-splash-client)
+✅ Check out the website at 🌐[Live Link](https://pks-brands.web.app/)
 
 #### Github Repo
 * front-end : [Client Repo](https://github.com/PallabKumarS/spark-splash-client)
