@@ -86,7 +86,7 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 
 <hr/>
 
-### Tour Quest
+### Moto Horizon
 ✅ Check out the website at 🌐[Live Link](https://pks-bike-store.vercel.app/)
 
 #### Github Repo
