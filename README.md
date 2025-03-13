@@ -25,6 +25,9 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs"/>
 </a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
+</a>
 </div>
 
 </td><td valign="top" width="33%">
