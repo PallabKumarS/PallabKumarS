@@ -33,8 +33,6 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 ### Backend  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,nodejs" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
 </div>
@@ -79,6 +77,24 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 
 ## Projects
 
+### Nest Hunt
+✅ Check out the website at 🌐[Live Link](https://pks-nest-hunt.vercel.app/)
+
+#### Github Repo
+* front-end : [Client Repo](https://github.com/PallabKumarS/nest-hunt-client)
+* back-end : [Server Repo](https://github.com/PallabKumarS/nest-hunt-server)
+
+<hr/>
+
+### Tour Quest
+✅ Check out the website at 🌐[Live Link](https://pks-bike-store.vercel.app/)
+
+#### Github Repo
+* front-end : [Client Repo](https://github.com/PallabKumarS/bike-store-client)
+* back-end : [Server Repo](https://github.com/PallabKumarS/bike-store-server)
+
+<hr/>
+
 ### Tour Quest
 ✅ Check out the website at 🌐[Live Link](https://pks-tour-guide.web.app/)
 
@@ -97,11 +113,3 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 * back-end : [Server Repo](https://github.com/PallabKumarS/hype-electronic-server)
 
 <hr/>
-
-  
-### Spark Splash
-✅ Check out the website at 🌐[Live Link](https://pks-brands.web.app/)
-
-#### Github Repo
-* front-end : [Client Repo](https://github.com/PallabKumarS/spark-splash-client)
-* back-end : [Server Repo](https://github.com/PallabKumarS/spark-splash-server)
