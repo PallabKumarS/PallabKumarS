@@ -24,6 +24,7 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs"/></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript" alt="Redux"/></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -78,7 +79,7 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 ## Projects
 
 ### Nest Hunt
-✅ Check out the website at 🌐[Live Link](https://pks-nest-hunt.vercel.app/)
+✅ Check out the website at 🌐[Live Link](https://pks-nest-hunt-client.vercel.app/)
 
 #### Github Repo
 * front-end : [Client Repo](https://github.com/PallabKumarS/nest-hunt-client)
@@ -87,7 +88,7 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 <hr/>
 
 ### Moto Horizon
-✅ Check out the website at 🌐[Live Link](https://pks-bike-store.vercel.app/)
+✅ Check out the website at 🌐[Live Link](https://pks-bike-store-client.vercel.app/)
 
 #### Github Repo
 * front-end : [Client Repo](https://github.com/PallabKumarS/bike-store-client)
