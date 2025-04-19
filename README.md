@@ -78,6 +78,15 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 
 ## Projects
 
+### Lagbe Kichu
+✅ Check out the website at 🌐[Live Link](https://pks-lagbe-kichu-client.vercel.app/)
+
+#### Github Repo
+* front-end : [Client Repo](https://github.com/PallabKumarS/nest-hunt-client)
+* back-end : [Server Repo](https://github.com/PallabKumarS/nest-hunt-server)
+
+<hr/>
+
 ### Nest Hunt
 ✅ Check out the website at 🌐[Live Link](https://pks-nest-hunt-client.vercel.app/)
 
