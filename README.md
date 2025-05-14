@@ -88,6 +88,15 @@ Currently delving into the intricacies of Next.js, I am on a continuous journey 
 
 <hr/>
 
+### Eco Sphere
+✅ Check out the website at 🌐[Live Link](https://pks-eco-sphere.vercel.app/)
+
+#### Github Repo
+* front-end : [Client Repo](https://github.com/PallabKumarS/eco-sphere-client)
+* back-end : [Server Repo](https://github.com/PallabKumarS/eco-sphere-server)
+
+<hr/>
+
 ### Nest Hunt
 ✅ Check out the website at 🌐[Live Link](https://pks-nest-hunt-client.vercel.app/)
 
